@@ -1,6 +1,6 @@
 {
   "name": "@adams549659584/nrm",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "the latest version for nrm",
   "bin": "./cli.js",
   "repository": {
