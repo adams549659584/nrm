@@ -1,4 +1,4 @@
-nrm -- NPM registry manager
+@adams549659584/nrm -- the latest version for nrm
 ===
 
 [![NPM version][npm-image]][npm-url]
@@ -16,7 +16,7 @@ Or you can configure it in your HOME directory's .yarnrc
 ## Install
 
 ```
-$ npm install -g nrm
+$ npm install -g @adams549659584/nrm
 ```
 
 ## Example
